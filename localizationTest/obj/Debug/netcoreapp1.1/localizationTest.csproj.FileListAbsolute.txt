@@ -1,0 +1,14 @@
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\bin\Debug\netcoreapp1.1\localizationTest.deps.json
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\bin\Debug\netcoreapp1.1\localizationTest.runtimeconfig.json
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\bin\Debug\netcoreapp1.1\localizationTest.runtimeconfig.dev.json
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\bin\Debug\netcoreapp1.1\localizationTest.dll
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\bin\Debug\netcoreapp1.1\localizationTest.pdb
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\obj\Debug\netcoreapp1.1\localizationTest.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\obj\Debug\netcoreapp1.1\localizationTest.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\obj\Debug\netcoreapp1.1\localizationTest.AssemblyInfo.cs
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\obj\Debug\netcoreapp1.1\localizationTest.dll
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\obj\Debug\netcoreapp1.1\localizationTest.pdb
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\bin\Debug\netcoreapp1.1\cs\localizationTest.resources.dll
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\obj\Debug\netcoreapp1.1\localizationTest.Resourses.AppResourse.cs.resources
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\obj\Debug\netcoreapp1.1\cs\localizationTest.resources.dll
+c:\users\maxim\documents\visual studio 2017\Projects\localizationTest\localizationTest\obj\Debug\netcoreapp1.1\localizationTest.Resourses.AppResource.resources
